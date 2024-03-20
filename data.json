@@ -1,0 +1,92 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "DOB": "1990-01-01",
+    "mobile": "1234567890",
+    "sex": "Male",
+    "address": "123 Main St",
+    "email": "john@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 25,
+    "DOB": "1990-01-01",
+    "mobile": "9876543210",
+    "sex": "Female",
+    "address": "456 Elm St",
+    "email": "jane@example.com",
+    "password": "password456"
+  },
+  {
+    "name": "teresa",
+    "age": 27,
+    "DOB": "2000-06-21",
+    "mobile": "1234567890",
+    "sex": "female",
+    "address": "123 Main St",
+    "email": "teresa@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "kirani",
+    "age": 72,
+    "DOB": "1996-06-21",
+    "mobile": "12373277890",
+    "sex": "female",
+    "address": "123 Main St",
+    "email": "teresa@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "vasu",
+    "age": "20",
+    "mobile": "972349719",
+    "gender": "male",
+    "dob": "29-06-2020",
+    "address": "bengularu",
+    "email": "abc@email.com",
+    "password": "27938r7h"
+  },
+  {
+    "name": "rajkumaraaaa",
+    "age": "88",
+    "mobile": "63263237",
+    "gender": "male",
+    "dob": "30-09-09",
+    "address": "jhabsc82",
+    "email": "vvv@gmail.com",
+    "password": "273ygdebch"
+  },
+  {
+    "name": "mana",
+    "age": 72,
+    "DOB": "1996-06-21",
+    "mobile": "12373277890",
+    "sex": "female",
+    "address": "123 Main St",
+    "email": "teresa@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "ravi",
+    "age": 72,
+    "DOB": "1996-06-21",
+    "mobile": "12373277890",
+    "sex": "female",
+    "address": "123 Main St",
+    "email": "teresa@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "deccil",
+    "age": "56",
+    "mobile": "727818528",
+    "gender": "male",
+    "dob": "2024-03-21",
+    "address": "0q9wd",
+    "email": "as@bas.com",
+    "password": "1t3edgibx"
+  }
+]
